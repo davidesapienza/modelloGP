@@ -1,0 +1,5 @@
+nome serie:eps_semp_postmod0902
+numero reti:50
+numero perturbazioni:8
+lista perturbazioni:1 2 3 4 5 10 15 20 
+

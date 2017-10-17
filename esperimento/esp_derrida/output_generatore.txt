@@ -1,0 +1,68 @@
+n:10
+e:20
+kin_min:2
+kin_max:2
+tmin:1
+tmax:1
+l_geni:
+id:0
+kin:2
+lp_in:7 2 
+f_out:1 1 0 0 
+id:1
+kin:2
+lp_in:2 7 
+f_out:0 0 1 1 
+id:2
+kin:2
+lp_in:9 8 
+f_out:1 1 1 0 
+id:3
+kin:2
+lp_in:5 8 
+f_out:0 1 1 1 
+id:4
+kin:2
+lp_in:3 1 
+f_out:0 1 0 1 
+id:5
+kin:2
+lp_in:9 1 
+f_out:0 1 1 1 
+id:6
+kin:2
+lp_in:8 4 
+f_out:1 1 1 1 
+id:7
+kin:2
+lp_in:5 3 
+f_out:1 0 0 0 
+id:8
+kin:2
+lp_in:1 9 
+f_out:1 1 1 0 
+id:9
+kin:2
+lp_in:1 5 
+f_out:1 0 0 1 
+l_proteine:
+id:0
+t_decadimento:1
+id:1
+t_decadimento:1
+id:2
+t_decadimento:1
+id:3
+t_decadimento:1
+id:4
+t_decadimento:1
+id:5
+t_decadimento:1
+id:6
+t_decadimento:1
+id:7
+t_decadimento:1
+id:8
+t_decadimento:1
+id:9
+t_decadimento:1

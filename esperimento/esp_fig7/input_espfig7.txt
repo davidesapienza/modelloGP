@@ -1,0 +1,5 @@
+nome serie:prova0713postmodinG
+numero di MDT della lista:9
+lista di MDT per cui runnare:1 2 4 8 16 32 64 128 256 
+tempo di decadimento di tutte proteine fisso a MDT:s
+

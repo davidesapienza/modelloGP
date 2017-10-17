@@ -1,0 +1,2 @@
+num. condizioni iniziali:10
+b:0.5

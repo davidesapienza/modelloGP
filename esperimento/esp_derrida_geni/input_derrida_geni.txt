@@ -1,0 +1,6 @@
+nome serie:esp0711concontrollo_a
+numero reti:1
+max proteine perturbate:100
+passo aggiuntivo:n
+numero di passi iniziali:3
+

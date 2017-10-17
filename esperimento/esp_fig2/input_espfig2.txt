@@ -1,0 +1,6 @@
+nome serie:prova0713postmod_a
+numero reti:100
+numero di MDT della lista:10
+lista di MDT per cui runnare:1 2 3 4 5 6 7 8 9 10 
+tempo di decadimento di tutte proteine fisso a MDT:s
+

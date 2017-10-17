@@ -1,0 +1,28 @@
+il file è strutturato come segue
+-numero nodi
+-numero link
+-scelta della connettività
+	-due numeri, se uguali kin uguale per tutti, se diversi kin scelto a caso tra
+	 i due(min e max)
+-probabilità sulla scelta dei kin
+	lista di n. numeri (kinmax-kinmin+1) float la cui somma deve essere uno. 
+-modalità scelta kin
+    -1 con kin_min e kin_max
+	-2 con n.link e assegnazione di ogni link casualmente con prob. uniforme.
+	-3 come il secondo ma con un num kin fisso per tutti (es. almeno 2 nodi in 
+		ingresso per tutti, gli altri assegnati a caso). in questo caso kin_min=kin_max
+-scelta t_decadimento
+	-due numeri, se uguali t_dec uguale per tutti, alrtrimenti si prende un valore
+	 casuale con prob uniforma tra i due valori
+tutti i dati sono presi dopo i '"duepunti"'.
+perciò nel file si può strivere quello che si vuole basta appunto che ci siano i 
+duepunti e i dati.
+
+
+n. nodi:10
+n. link:20
+connettività:2 2
+probabilità sui kin:1 
+modalità:1
+tempo decadimento:1 1
+massimo kin:4

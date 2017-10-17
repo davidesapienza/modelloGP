@@ -1,0 +1,37 @@
+spiegazione del file delle funzioni booleane:
+
+il file in linea generale è costruito come: 
+
+-numero dei kin per i quali è specificata una funzione
+(dopodchè, per ogni kin c'è:)
+-kin corrispondente
+1 versione:
+	-numero funzioni per il kin
+	-lista funzioni(ogni stato separato da uno spazio) seguite dai corrispondenti pesi 
+		es 1 0 0 1 0.2
+		   0 0 0 1 0.1
+2 versione
+	- bias corrispondente al kin
+
+-alla fine di tutto, riga vuota e poi il bias(da utilizzare per quei kin non 
+	specificati)
+
+esempio:
+
+"
+kin=2
+n_fun=3
+0 1 1 1 
+0 0 1 0 
+1 0 1 0 
+kin=3
+bias=0.6
+kin=4
+n_fun=2
+1 1 1 0 0 1 0 1 1 0 0 1 0 0 1 0 
+0 0 0 1 1 1 0 0 0 1 1 1 0 0 0 1
+kin=5
+bias=0.4
+
+bias=0.5
+"

@@ -1,0 +1,9 @@
+risultati di confronto:
+si:57572	no:5653	incerti:199	su:63424 CI tot
+si:52595	no:10424	incerti:405	su:63424 CI tot
+si:47860	no:14996	incerti:568	su:63424 CI tot
+si:43820	no:18912	incerti:692	su:63424 CI tot
+si:40152	no:22407	incerti:865	su:63424 CI tot
+si:26796	no:35171	incerti:1457	su:63424 CI tot
+si:18681	no:42787	incerti:1956	su:63424 CI tot
+si:13802	no:47307	incerti:2315	su:63424 CI tot

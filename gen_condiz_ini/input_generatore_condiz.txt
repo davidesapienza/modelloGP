@@ -1,0 +1,2 @@
+num. condizioni iniziali:1000
+b:0.5

@@ -1,0 +1,3 @@
+risultati di confronto:
+si:2199	no:392
+si:1874	no:717

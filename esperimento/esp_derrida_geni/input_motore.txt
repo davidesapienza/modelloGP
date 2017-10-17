@@ -1,0 +1,14 @@
+il file è strutturato come segue
+-numero di passi (PMAX)
+-FINMAX
+-modalità
+	-1 Eseguire P passi e salvare le traiettorie (in tal caso il file di uscita finale conterrà un numero di righe pari a P 	volte il numero di condizioni iniziali)
+	-2 Eseguire P passi e salvare il solo stato finale (in tal caso il file di uscita finale conterrà un numero di righe pari 		al numero di condizioni iniziali)
+	-3 Cercare l’attrattore cui conduce ogni condizione iniziale; in tal caso il file di uscita finale conterrà un numero di 	“nomi” di attrattore pari al numero di condizioni iniziali, più un pari numero di lunghezze di periodo). 
+
+tutti i dati sono presi dopo i '"duepunti"'.
+l'importante è mantenere l'ordine sopra
+
+PMAX:1
+FINMAX:500
+modalità:2

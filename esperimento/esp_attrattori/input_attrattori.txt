@@ -1,0 +1,5 @@
+nome serie:prova0719_c
+numero reti:50
+numero perturbazioni:2
+lista perturbazioni:1 2 
+

@@ -1,0 +1,608 @@
+n:100
+e:20
+kin_min:2
+kin_max:2
+tmin:256
+tmax:256
+l_geni:
+id:0
+kin:2
+lp_in:18 1 
+f_out:1 1 1 0 
+id:1
+kin:2
+lp_in:9 71 
+f_out:0 1 0 0 
+id:2
+kin:2
+lp_in:99 98 
+f_out:1 0 0 0 
+id:3
+kin:2
+lp_in:19 35 
+f_out:0 0 0 0 
+id:4
+kin:2
+lp_in:58 49 
+f_out:0 0 0 1 
+id:5
+kin:2
+lp_in:9 94 
+f_out:0 1 1 0 
+id:6
+kin:2
+lp_in:18 43 
+f_out:1 0 0 0 
+id:7
+kin:2
+lp_in:86 70 
+f_out:0 0 0 0 
+id:8
+kin:2
+lp_in:22 86 
+f_out:1 1 0 1 
+id:9
+kin:2
+lp_in:74 30 
+f_out:0 0 0 0 
+id:10
+kin:2
+lp_in:95 49 
+f_out:1 0 0 1 
+id:11
+kin:2
+lp_in:30 60 
+f_out:0 0 0 1 
+id:12
+kin:2
+lp_in:75 37 
+f_out:0 1 0 0 
+id:13
+kin:2
+lp_in:72 62 
+f_out:0 0 0 1 
+id:14
+kin:2
+lp_in:25 79 
+f_out:0 0 1 0 
+id:15
+kin:2
+lp_in:5 43 
+f_out:0 0 0 0 
+id:16
+kin:2
+lp_in:80 14 
+f_out:1 1 0 0 
+id:17
+kin:2
+lp_in:66 31 
+f_out:0 0 0 0 
+id:18
+kin:2
+lp_in:12 37 
+f_out:0 0 0 1 
+id:19
+kin:2
+lp_in:22 87 
+f_out:1 0 0 0 
+id:20
+kin:2
+lp_in:28 16 
+f_out:1 0 0 0 
+id:21
+kin:2
+lp_in:57 23 
+f_out:0 1 0 1 
+id:22
+kin:2
+lp_in:2 27 
+f_out:1 1 1 0 
+id:23
+kin:2
+lp_in:45 89 
+f_out:1 1 0 1 
+id:24
+kin:2
+lp_in:1 27 
+f_out:0 0 0 0 
+id:25
+kin:2
+lp_in:36 2 
+f_out:0 0 0 0 
+id:26
+kin:2
+lp_in:58 48 
+f_out:0 1 0 0 
+id:27
+kin:2
+lp_in:30 95 
+f_out:0 0 0 1 
+id:28
+kin:2
+lp_in:20 92 
+f_out:0 0 0 1 
+id:29
+kin:2
+lp_in:20 52 
+f_out:0 0 0 1 
+id:30
+kin:2
+lp_in:97 16 
+f_out:0 1 0 1 
+id:31
+kin:2
+lp_in:84 63 
+f_out:0 0 0 1 
+id:32
+kin:2
+lp_in:34 68 
+f_out:1 0 0 1 
+id:33
+kin:2
+lp_in:27 72 
+f_out:0 1 1 0 
+id:34
+kin:2
+lp_in:87 50 
+f_out:0 0 1 1 
+id:35
+kin:2
+lp_in:11 67 
+f_out:0 1 1 0 
+id:36
+kin:2
+lp_in:66 68 
+f_out:1 1 1 0 
+id:37
+kin:2
+lp_in:91 21 
+f_out:0 0 1 0 
+id:38
+kin:2
+lp_in:95 88 
+f_out:1 1 0 0 
+id:39
+kin:2
+lp_in:62 49 
+f_out:0 0 0 1 
+id:40
+kin:2
+lp_in:16 98 
+f_out:1 1 0 0 
+id:41
+kin:2
+lp_in:51 74 
+f_out:0 0 0 1 
+id:42
+kin:2
+lp_in:46 33 
+f_out:0 0 0 1 
+id:43
+kin:2
+lp_in:21 19 
+f_out:1 1 1 0 
+id:44
+kin:2
+lp_in:25 93 
+f_out:0 0 0 0 
+id:45
+kin:2
+lp_in:23 74 
+f_out:0 0 0 1 
+id:46
+kin:2
+lp_in:61 7 
+f_out:0 0 0 1 
+id:47
+kin:2
+lp_in:89 96 
+f_out:0 0 0 0 
+id:48
+kin:2
+lp_in:27 17 
+f_out:0 0 0 0 
+id:49
+kin:2
+lp_in:20 66 
+f_out:0 0 1 0 
+id:50
+kin:2
+lp_in:19 31 
+f_out:0 1 0 1 
+id:51
+kin:2
+lp_in:34 37 
+f_out:1 0 0 1 
+id:52
+kin:2
+lp_in:99 77 
+f_out:0 0 0 0 
+id:53
+kin:2
+lp_in:58 46 
+f_out:1 0 0 0 
+id:54
+kin:2
+lp_in:65 20 
+f_out:0 0 0 0 
+id:55
+kin:2
+lp_in:95 81 
+f_out:1 0 0 1 
+id:56
+kin:2
+lp_in:70 99 
+f_out:0 1 1 0 
+id:57
+kin:2
+lp_in:7 69 
+f_out:0 1 0 0 
+id:58
+kin:2
+lp_in:84 80 
+f_out:0 0 1 1 
+id:59
+kin:2
+lp_in:88 10 
+f_out:0 0 0 0 
+id:60
+kin:2
+lp_in:74 63 
+f_out:0 0 0 0 
+id:61
+kin:2
+lp_in:36 87 
+f_out:1 0 0 0 
+id:62
+kin:2
+lp_in:70 78 
+f_out:0 0 1 0 
+id:63
+kin:2
+lp_in:35 50 
+f_out:0 0 0 1 
+id:64
+kin:2
+lp_in:95 55 
+f_out:1 0 0 0 
+id:65
+kin:2
+lp_in:16 14 
+f_out:0 0 1 0 
+id:66
+kin:2
+lp_in:86 50 
+f_out:1 0 0 0 
+id:67
+kin:2
+lp_in:3 37 
+f_out:0 0 0 0 
+id:68
+kin:2
+lp_in:27 62 
+f_out:0 0 0 0 
+id:69
+kin:2
+lp_in:36 45 
+f_out:0 1 0 1 
+id:70
+kin:2
+lp_in:34 83 
+f_out:1 1 0 1 
+id:71
+kin:2
+lp_in:26 5 
+f_out:1 0 0 1 
+id:72
+kin:2
+lp_in:82 86 
+f_out:1 0 1 1 
+id:73
+kin:2
+lp_in:74 19 
+f_out:0 0 0 0 
+id:74
+kin:2
+lp_in:66 14 
+f_out:0 0 0 0 
+id:75
+kin:2
+lp_in:81 92 
+f_out:0 0 1 0 
+id:76
+kin:2
+lp_in:77 17 
+f_out:0 1 0 1 
+id:77
+kin:2
+lp_in:32 99 
+f_out:1 0 0 1 
+id:78
+kin:2
+lp_in:95 67 
+f_out:1 0 0 0 
+id:79
+kin:2
+lp_in:49 42 
+f_out:1 0 0 0 
+id:80
+kin:2
+lp_in:23 66 
+f_out:0 0 1 0 
+id:81
+kin:2
+lp_in:8 61 
+f_out:0 0 0 0 
+id:82
+kin:2
+lp_in:68 12 
+f_out:0 0 0 0 
+id:83
+kin:2
+lp_in:51 48 
+f_out:0 0 0 0 
+id:84
+kin:2
+lp_in:26 87 
+f_out:0 1 0 0 
+id:85
+kin:2
+lp_in:93 60 
+f_out:1 0 0 0 
+id:86
+kin:2
+lp_in:70 71 
+f_out:0 1 0 1 
+id:87
+kin:2
+lp_in:17 5 
+f_out:0 0 0 0 
+id:88
+kin:2
+lp_in:57 91 
+f_out:0 0 0 0 
+id:89
+kin:2
+lp_in:24 76 
+f_out:0 0 1 0 
+id:90
+kin:2
+lp_in:57 5 
+f_out:0 0 0 0 
+id:91
+kin:2
+lp_in:68 86 
+f_out:1 0 0 0 
+id:92
+kin:2
+lp_in:74 52 
+f_out:0 0 0 0 
+id:93
+kin:2
+lp_in:38 22 
+f_out:1 0 0 1 
+id:94
+kin:2
+lp_in:20 39 
+f_out:0 0 0 0 
+id:95
+kin:2
+lp_in:64 57 
+f_out:0 1 0 0 
+id:96
+kin:2
+lp_in:25 8 
+f_out:0 1 0 0 
+id:97
+kin:2
+lp_in:26 37 
+f_out:0 0 0 1 
+id:98
+kin:2
+lp_in:11 74 
+f_out:0 0 0 0 
+id:99
+kin:2
+lp_in:63 98 
+f_out:0 0 0 0 
+l_proteine:
+id:0
+t_decadimento:256
+id:1
+t_decadimento:256
+id:2
+t_decadimento:256
+id:3
+t_decadimento:256
+id:4
+t_decadimento:256
+id:5
+t_decadimento:256
+id:6
+t_decadimento:256
+id:7
+t_decadimento:256
+id:8
+t_decadimento:256
+id:9
+t_decadimento:256
+id:10
+t_decadimento:256
+id:11
+t_decadimento:256
+id:12
+t_decadimento:256
+id:13
+t_decadimento:256
+id:14
+t_decadimento:256
+id:15
+t_decadimento:256
+id:16
+t_decadimento:256
+id:17
+t_decadimento:256
+id:18
+t_decadimento:256
+id:19
+t_decadimento:256
+id:20
+t_decadimento:256
+id:21
+t_decadimento:256
+id:22
+t_decadimento:256
+id:23
+t_decadimento:256
+id:24
+t_decadimento:256
+id:25
+t_decadimento:256
+id:26
+t_decadimento:256
+id:27
+t_decadimento:256
+id:28
+t_decadimento:256
+id:29
+t_decadimento:256
+id:30
+t_decadimento:256
+id:31
+t_decadimento:256
+id:32
+t_decadimento:256
+id:33
+t_decadimento:256
+id:34
+t_decadimento:256
+id:35
+t_decadimento:256
+id:36
+t_decadimento:256
+id:37
+t_decadimento:256
+id:38
+t_decadimento:256
+id:39
+t_decadimento:256
+id:40
+t_decadimento:256
+id:41
+t_decadimento:256
+id:42
+t_decadimento:256
+id:43
+t_decadimento:256
+id:44
+t_decadimento:256
+id:45
+t_decadimento:256
+id:46
+t_decadimento:256
+id:47
+t_decadimento:256
+id:48
+t_decadimento:256
+id:49
+t_decadimento:256
+id:50
+t_decadimento:256
+id:51
+t_decadimento:256
+id:52
+t_decadimento:256
+id:53
+t_decadimento:256
+id:54
+t_decadimento:256
+id:55
+t_decadimento:256
+id:56
+t_decadimento:256
+id:57
+t_decadimento:256
+id:58
+t_decadimento:256
+id:59
+t_decadimento:256
+id:60
+t_decadimento:256
+id:61
+t_decadimento:256
+id:62
+t_decadimento:256
+id:63
+t_decadimento:256
+id:64
+t_decadimento:256
+id:65
+t_decadimento:256
+id:66
+t_decadimento:256
+id:67
+t_decadimento:256
+id:68
+t_decadimento:256
+id:69
+t_decadimento:256
+id:70
+t_decadimento:256
+id:71
+t_decadimento:256
+id:72
+t_decadimento:256
+id:73
+t_decadimento:256
+id:74
+t_decadimento:256
+id:75
+t_decadimento:256
+id:76
+t_decadimento:256
+id:77
+t_decadimento:256
+id:78
+t_decadimento:256
+id:79
+t_decadimento:256
+id:80
+t_decadimento:256
+id:81
+t_decadimento:256
+id:82
+t_decadimento:256
+id:83
+t_decadimento:256
+id:84
+t_decadimento:256
+id:85
+t_decadimento:256
+id:86
+t_decadimento:256
+id:87
+t_decadimento:256
+id:88
+t_decadimento:256
+id:89
+t_decadimento:256
+id:90
+t_decadimento:256
+id:91
+t_decadimento:256
+id:92
+t_decadimento:256
+id:93
+t_decadimento:256
+id:94
+t_decadimento:256
+id:95
+t_decadimento:256
+id:96
+t_decadimento:256
+id:97
+t_decadimento:256
+id:98
+t_decadimento:256
+id:99
+t_decadimento:256

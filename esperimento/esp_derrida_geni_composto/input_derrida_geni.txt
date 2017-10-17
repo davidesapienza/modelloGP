@@ -1,0 +1,6 @@
+nome serie:prova_der_geni0718
+numero reti:50
+max proteine perturbate:100
+passo aggiuntivo:s
+numero di passi iniziali:3
+

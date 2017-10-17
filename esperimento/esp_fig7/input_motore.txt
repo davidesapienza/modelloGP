@@ -1,0 +1,3 @@
+PMAX:1
+FINMAX:500
+modalità:2

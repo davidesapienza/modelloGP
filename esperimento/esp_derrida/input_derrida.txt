@@ -1,0 +1,8 @@
+nome serie:prova0709
+numero reti:5
+max proteine perturbate:10
+struttura da file:n
+condizioni iniziali da file:n
+passo aggiuntivo:s
+numero di passi iniziali:3
+

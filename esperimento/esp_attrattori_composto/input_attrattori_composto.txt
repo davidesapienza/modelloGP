@@ -1,0 +1,6 @@
+nome serie:esp_DattrCompPostMod0902_k2b05_e
+numero di MDT della lista:7
+lista di MDT per cui runnare:1 2 4 8 16 32 64 
+tempo di decadimento di tutte proteine fisso a MDT:s
+memorizza informazioni complete:s
+
